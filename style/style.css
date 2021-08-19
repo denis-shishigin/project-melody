@@ -105,6 +105,10 @@ body {
     opacity: 1;
 }
 
+path.current-floor {
+    opacity: 1;
+}
+
 .counter-group {
     display: flex;
     flex-direction: column;
@@ -142,4 +146,5 @@ body {
     border-radius: 6px;
     color: white;
     cursor: pointer;
+    margin-bottom: 66px;
 }
